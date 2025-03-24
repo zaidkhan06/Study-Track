@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StudyTrackBackendApplication",
+            "request": "launch",
+            "mainClass": "com.StudyTrack.StudyTrackBackend.StudyTrackBackendApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-StudyTrackBackendApplication<StudyTrackBackend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.StudyTrack.StudyTrackBackend.StudyTrackBackendApplication",
+            "projectName": "StudyTrackBackend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
